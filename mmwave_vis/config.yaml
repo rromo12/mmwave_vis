@@ -33,6 +33,6 @@ schema:
   ha_token: str
 
 ingress: true
-ingress_port: 5000
+ingress_port: 5001
 panel_icon: mdi:radar
 panel_title: "mmWave Radar"
